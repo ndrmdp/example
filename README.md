@@ -1,2 +1,2 @@
-# example
+## example
 Lorem ipsum dolor  
